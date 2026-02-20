@@ -1,4 +1,4 @@
-# Hi there, I'm Hamzah Kapadia! 👋
+# Hi there, I'm Hamzah Robin! 👋
 
 I am a **Software Developer** based in Veraval, Gujarat, and the founder of **Silly Co.**, my freelance development studio. I specialize in building cross-platform mobile applications and modern web solutions.
 
